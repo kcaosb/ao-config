@@ -1,5 +1,5 @@
 window.quizConfig = {
-  version: "2026-04-27",
+  version: "2026-06-11",
   startId: "qA2_reasons_submitter",
   modals: {
     concernedPartyInfo: {
@@ -710,7 +710,7 @@ window.quizConfig = {
   planFooters: {
     submitter: {
       textHtml:
-        '\n        <div style="text-align: center; font-size: 24px;">\n          Now, let’s view your agreement.\n        </div>\n      ',
+        '\n        <div style="text-align: center; font-size: 24px;">\n          Next, let\'s get your agreement started.\n        </div>\n      ',
       ctaLabel: "Continue",
     },
   },
